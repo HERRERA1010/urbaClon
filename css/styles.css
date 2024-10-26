@@ -3,5 +3,8 @@
     --texto-blanco: #ffffff;
 }
 
+/**VARIABLES PARA TEXTOS**/
 
-
+.fs-7{
+    font-size: min(1vw) max(1.3vw) ;
+}
