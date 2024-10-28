@@ -1,8 +1,6 @@
-.card{
-    background-color: var(--color-secciones-1);
+.card{    
     border-radius: 0px;
-    
-}
-.texto-blanco{
-    color: var(--texto-blanco);
+    }
+.colorSeccion1{
+    background-color: var(--color-secciones-1);
 }
