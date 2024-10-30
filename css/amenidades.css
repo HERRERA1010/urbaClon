@@ -4,3 +4,8 @@
 ul{
     list-style-type: none;
 }
+
+.row{   
+    width: 99.9%;
+    margin: auto;
+}
