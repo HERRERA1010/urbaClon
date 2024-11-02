@@ -13,19 +13,16 @@ html{
     margin: 0;
 }
 
-/*VARIABLES COLORESS*/
+/*VARIABLES COLORES*/
 .colorSeccion2{
     background-color: var(--color-secciones-2);
 }
-
 
 /**VARIABLES PARA TEXTOS**/
 
 .fs-7{
     font-size: 0.8rem;
-    
-}
-
+ }
 .texto-blanco{
     color: var(--texto-blanco);
 }
