@@ -2,6 +2,7 @@
     --color-secciones-1: #1f1e1e;
     --color-secciones-2: #d9d9d9;
     --texto-blanco: #ffffff;
+    --color-secundario-amarillo:#f9c744;
 }
 
 html{
@@ -17,20 +18,27 @@ html{
 .colorSeccion2{
     background-color: var(--color-secciones-2);
 }
+.colorSeccionNegro{
+    background-color: var(--color-secciones-1);
+}
 
 /**VARIABLES PARA TEXTOS**/
-
 .fs-7{
     font-size: 0.8rem;
  }
 .texto-blanco{
     color: var(--texto-blanco);
 }
-
+.colorAmarillo{
+    color: var(--color-secundario-amarillo);
+}
 h2{
     font-family: "Unica One", sans-serif;
 }
 
 .fuenteUnica{
     font-family: "Unica One", sans-serif;
+}
+.upperCase{
+    text-transform: uppercase;
 }
