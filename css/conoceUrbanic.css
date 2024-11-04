@@ -1,3 +1,13 @@
-.fa-heart{
-    font-size: 50px;
+.img-iconos{
+    display: grid;
+    place-items: center;
+   
+}
+
+.iconos{
+    height: 50%;
+}
+
+.margin-left{
+    margin-left: 8%;
 }
