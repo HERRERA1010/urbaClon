@@ -1,0 +1,65 @@
+/*Whatsapp button*/
+
+.containerBoton {
+    background-color: #2e6329;
+    border: 1px solid #fff;
+    position: fixed;
+    z-index: 999;
+    border-radius: 50%;
+    bottom: 60px;
+    right: 15px;
+    padding: 10px;
+    transition: ease 0.3s;
+    animation: efect 1.2s infinite;
+}
+
+.containerBoton:hover {
+    transform: scale(1.1);
+    transition: 0.3s;
+}
+
+.botonW {
+    width: 29px;
+    transition: ease 1s;
+}
+
+
+
+/*final whatsapp button*/
+
+
+/*tel button*/
+
+.containerBoton2 {
+    background-color: rgb(10, 156, 241);
+    border: 1px solid #fff;
+    position: fixed;
+    z-index: 999;
+    border-radius: 50%;
+    bottom: 130px;
+    right: 15px;
+    padding: 10px;
+    transition: ease 0.3s;
+    animation: efect 1.2s infinite;
+}
+
+.containerBoton:hover {
+    transform: scale(1.1);
+    transition: 0.3s;
+}
+
+.botonT {
+    width: 29px;
+    transition: ease 1s;
+}
+
+@keyframes efect {
+    0% {
+        box-shadow: 0 0 0 0 rgba(0, 0, 0, 0.85);
+    }
+    100% {
+        box-shadow: 0 0 0 10px rgba(0, 0, 0, 0);
+    }
+}
+
+/*final tel button*/
