@@ -42,3 +42,7 @@ h2{
 .upperCase{
     text-transform: uppercase;
 }
+
+.ancho-25{
+    width: 20%;
+}
