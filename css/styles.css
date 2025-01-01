@@ -1,6 +1,6 @@
 :root{
     --color-secciones-1: #1f1e1e;
-    --color-secciones-2: #FFFAE0;
+    --color-secciones-2: #d9d9d9;
     --texto-blanco: #ffffff;
     --color-secundario-amarillo:#f9c744;
       
@@ -13,6 +13,12 @@ html{
 .container-fluid{
     padding: 0;
     margin: 0;
+}
+
+/*NAVBAR*/
+
+.color-navbar{
+    background-color: var(--texto-blanco);
 }
 
 /*VARIABLES COLORES*/
