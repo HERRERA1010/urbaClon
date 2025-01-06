@@ -3,7 +3,7 @@
     --color-secciones-2: #d9d9d9;
     --texto-blanco: #ffffff;
     --color-secundario-amarillo:#f9c744;
-      
+    --navbar-color: #d8d8d8;  
 }
 
 html{
@@ -18,12 +18,12 @@ html{
 /*NAVBAR*/
 
 .color-navbar{
-    background-color: var(--texto-blanco);
+    background-color: var(--navbar-color);
 }
 
 /*VARIABLES COLORES*/
 .colorSeccion2{
-    background-color: var(--color-secciones-2);
+    background-color:var(--color-secciones-2);
 }
 .colorSeccionNegro{
     background-color: var(--color-secciones-1);
