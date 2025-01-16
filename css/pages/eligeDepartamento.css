@@ -1,0 +1,22 @@
+.contenedor {
+    display: grid;
+    place-items: center;
+}
+
+.texto{
+    font-size: 100px ;
+}
+
+.ancho-maximo{
+    width: 100%;
+   max-width: 720px;
+   margin: auto;
+}
+
+
+@media (max-width: 768px) {
+    .texto{
+        font-size: 70px ;
+    }
+    
+  }
