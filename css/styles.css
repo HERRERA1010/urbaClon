@@ -65,12 +65,8 @@ h2{
 }
 @media (max-width: 768px) {
     .super-titulo{
-        font-size: 1.6em ;
-        color: #f9c744;
-    }
-
-    
-    
+        font-size: 1.6em ;       
+    }    
   }
 
 /*FINAL VARIABLES DE TEXTO*/
