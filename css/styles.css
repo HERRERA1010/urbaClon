@@ -59,8 +59,18 @@ h2{
 }
 
 .super-titulo{
-    font-size: 2em;
+    font-size: 3em;
     text-align: center;
     margin-top: 4%;
 }
+@media (max-width: 768px) {
+    .super-titulo{
+        font-size: 1.6em ;
+        color: #f9c744;
+    }
+
+    
+    
+  }
+
 /*FINAL VARIABLES DE TEXTO*/
