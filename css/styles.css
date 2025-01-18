@@ -57,4 +57,10 @@ h2{
 .sub-titulo{
     font-size: small;
 }
+
+.super-titulo{
+    font-size: 4rem;
+    text-align: center;
+    margin-top: 4%;
+}
 /*FINAL VARIABLES DE TEXTO*/

@@ -9,8 +9,14 @@
 
 .ancho-maximo{
     width: 100%;
-   max-width: 720px;
+   max-width: 640px;
    margin: auto;
+}
+
+.sombra{
+    box-shadow: 10px 10px 11px -4px rgba(0,0,0,0.75);
+-webkit-box-shadow: 10px 10px 11px -4px rgba(0,0,0,0.75);
+-moz-box-shadow: 10px 10px 11px -4px rgba(0,0,0,0.75);
 }
 
 
