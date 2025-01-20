@@ -39,11 +39,8 @@ html{
 .colorAmarillo{
     color: var(--color-secundario-amarillo);
 }
-h2{
-    font-family: "Unica One", sans-serif;
-}
 
-.fuenteUnica{
+.fuenteUnica, h2{
     font-family: "Unica One", sans-serif;
 }
 .upperCase{
