@@ -1,18 +1,21 @@
-.card{
-    border: 0;
+.card {
+  border: 0;
 }
-ul{
-    list-style-type: none;
-}
-
-.row{   
-    width: 99.9%;
-    margin: auto;
+ul {
+  list-style-type: none;
 }
 
-.card{
-    padding: 10px;
+.row {
+  width: 99.9%;
+  margin: auto;
 }
-.card-img-top{
-    border-radius: 7px;
+
+.card {
+  padding: 10px;
+}
+.card-img-top {
+  border-radius: 7px;
+}
+.sombra-2 {
+  box-shadow: 20px 20px 60px #bebebe, -20px -20px 60px #ffffff;
 }
