@@ -71,13 +71,13 @@ html{
 }
 
 .super-titulo{
-    font-size: 6em;
+    font-size: 4em;
     text-align: center;
     margin-top: 4%;
 }
 @media (max-width: 768px) {
     .super-titulo{
-        font-size: 3em ;       
+        font-size: 1.7em ;       
     }    
   }
 
