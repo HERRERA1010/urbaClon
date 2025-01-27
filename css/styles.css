@@ -48,6 +48,10 @@ html{
 .fs-7{
     font-size: 0.8rem;
  }
+
+ .fs-titulo-mediano{
+    font-size: 2em;
+ }
 .texto-blanco{
     color: var(--texto-blanco);
 }
