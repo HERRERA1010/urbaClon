@@ -8,4 +8,41 @@
     font-size: min(0.8vw) max(1.1vw) ;
 }
 
+/* From Uiverse.io by mrhyddenn */ 
+.hover-efect {
+  background: #fff;
+  border: none;
+  display: inline-block;
+  text-transform: uppercase;
+  cursor: pointer;
+  transform: skew(-21deg);
+}
 
+.liga {
+  display: inline-block;
+  transform: skew(21deg);
+}
+
+.hover-efect::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  right: 100%;
+  left: 0;
+  background:#f9c6449c;
+  opacity: 0;
+  z-index: -1;
+  transition: all 0.5s;
+  
+}
+
+.hover-efect:hover {
+  color: #fff ;
+}
+
+.hover-efect:hover::before {
+  left: 0;
+  right: 0;
+  opacity: 1;
+}
